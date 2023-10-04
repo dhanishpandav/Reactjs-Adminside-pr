@@ -1,0 +1,15 @@
+.form-control2{
+    width: 600px;
+}  
+.container{
+    max-width: 1700px ;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto;
+}
+.nvcolor2{
+    background-color: #232f3e;
+}
+.nav-link{
+    color: white;
+}
